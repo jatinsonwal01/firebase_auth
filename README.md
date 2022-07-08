@@ -1,6 +1,6 @@
 # firebase_auth
 
-Created a beautiful flutter sign in , login in page in using flutter.
+Created a beautiful sign in , login in page using flutter and firebase .
 
 ## Preview
 <img src="https://github.com/jatinsonwal01/firebase_auth/blob/main/images/record.gif" width=50% height=50%>
